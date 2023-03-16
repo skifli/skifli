@@ -10,6 +10,7 @@
 | [**exeme-project/create-a-programming-language**](https://github.com/exeme-project/create-a-programming-language) | C++, Markdown     | A step-by-step guide on how to create your very own programming language. |
 | [**skifli/skifli.github.io**](https://github.com/skifli/skifli.github.io)                                         | HTML, CSS, and JS | My portfolio website.                                                     |
 | [**skifli/warp-f1s**](https://github.com/skifli/warp-f1s)                                                         | HTML, CSS, and JS | My F1 in Schools team website.                                            |
+| [**skifli/watson**](https://github.com/skifli/watson)                                                               | Go                | Find social media accounts by username. Fast.                                       |
 | [**skifli/pyattr**](https://github.com/skifli/pyattr)                                                             | Python            | Proper access modifiers for Python.                                       |
 | [**skifli/golog**](https://github.com/skifli/golog)                                                               | Go                | A performant logging module for Go.                                       |
 | [**skifli/gocc**](https://github.com/skifli/gocc)                                                                 | Go                | Go Cross-Compilation made easy.                                           |
