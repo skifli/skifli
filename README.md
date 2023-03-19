@@ -14,6 +14,7 @@
 | [**skifli/pyattr**](https://github.com/skifli/pyattr)                                                             | Python            | Proper access modifiers for Python.                                       |
 | [**skifli/golog**](https://github.com/skifli/golog)                                                               | Go                | A performant logging module for Go.                                       |
 | [**skifli/gocc**](https://github.com/skifli/gocc)                                                                 | Go                | Go Cross-Compilation made easy.                                           |
+| [**skifli/creft**](https://github.com/skifli/creft)                                                                 | Go                | A simple utility / games bot for Discord.                                           |
 
 ## Online Profiles
 
