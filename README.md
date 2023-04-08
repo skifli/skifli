@@ -6,7 +6,7 @@
 
 | Name                                                                          | Language(s)       | Description                                           |
 | ----------------------------------------------------------------------------- | ----------------- | ----------------------------------------------------- |
-| [**exeme-project/exeme-lang**](https://github.com/exeme-project/exeme-lang)   | C++               | An optimised, elegant, compiled programming language. |
+| [**exeme-project/exeme-lang**](https://github.com/exeme-project/exeme-lang)   | C                 | An optimised, elegant, compiled programming language. |
 | [**skifli/creft**](https://github.com/skifli/creft)                           | Go                | A simple utility / games bot for Discord.             |
 | [**skifli/gocc**](https://github.com/skifli/gocc)                             | Go                | Go Cross-Compilation made easy.                       |
 | [**skifli/gocord**](https://github.com/skifli/gocord)                         | Go                | A performant self-bot Discord API wrapper for Go.     |
