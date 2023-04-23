@@ -13,6 +13,7 @@
 | [**skifli/golog**](https://github.com/skifli/golog)                           | Go                | A performant logging module for Go.                   |
 | [**skifli/pyattr**](https://github.com/skifli/pyattr)                         | Python            | Proper access modifiers for Python.                   |
 | [**skifli/skifli.github.io**](https://github.com/skifli/skifli.github.io)     | HTML, CSS, and JS | My portfolio website.                                 |
+| [**skifli/snek**](https://github.com/skifli/snek)                             | Python            |  It's snake. But snek. And in Python.                 | 
 | [**skifli/watson**](https://github.com/skifli/watson)                         | Go                | Find social media accounts by username. Fast.         |
 | [**warpf1s/warpf1s.github.io**](https://github.com/warpf1s/warpf1s.github.io) | HTML, CSS, and JS | Our F1 in Schools team website.                       |
 
