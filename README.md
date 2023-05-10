@@ -22,7 +22,7 @@
 | Service           | Name                                                             |
 | ----------------- | ---------------------------------------------------------------- |
 | **CodeForum**     | [_skifli_](https://codeforum.org/members/skifli.1181/)           |
-| **Discord**       | [_`skifli#8774`_](https://discord.com/users/1072069875993956372) |
+| **Discord**       | [_`skifli#4462`_](https://discord.com/users/1072069875993956372) |
 | **Monkeytype**    | [_skifli_](https://monkeytype.com/profile/skifli)                |
 | **Replit**        | [_skifli_](https://replit.com/@skifli)                           |
 | **StackOverflow** | [_skifli_](https://stackoverflow.com/users/20888352/skifli)      |
