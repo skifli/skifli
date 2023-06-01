@@ -13,7 +13,7 @@
 | [**skifli/golog**](https://github.com/skifli/golog)                           | Go                | A performant logging module for Go.                   |
 | [**skifli/pyattr**](https://github.com/skifli/pyattr)                         | Python            | Proper access modifiers for Python.                   |
 | [**skifli/skifli.github.io**](https://github.com/skifli/skifli.github.io)     | HTML, CSS, and JS | My portfolio website.                                 |
-| [**skifli/snek**](https://github.com/skifli/snek)                             | Python            |  It's snake. But snek. And in Python.                 | 
+| [**skifli/snek**](https://github.com/skifli/snek)                             | Python            | It's snake. But snek. And in Python.                  |
 | [**skifli/watson**](https://github.com/skifli/watson)                         | Go                | Find social media accounts by username. Fast.         |
 | [**warpf1s/warpf1s.github.io**](https://github.com/warpf1s/warpf1s.github.io) | HTML, CSS, and JS | Our F1 in Schools team website.                       |
 
@@ -24,6 +24,7 @@
 | **CodeForum**     | [_skifli_](https://codeforum.org/members/skifli.1181/)           |
 | **Discord**       | [_`skifli#4462`_](https://discord.com/users/1072069875993956372) |
 | **Monkeytype**    | [_skifli_](https://monkeytype.com/profile/skifli)                |
+| **Reddit**        | [_skifli__](https://www.reddit.com/user/skifli_)                 |
 | **Replit**        | [_skifli_](https://replit.com/@skifli)                           |
 | **StackOverflow** | [_skifli_](https://stackoverflow.com/users/20888352/skifli)      |
 | **Steam**         | [_skifli_](https://steamcommunity.com/id/skifli/)                |
