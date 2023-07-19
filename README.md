@@ -5,6 +5,15 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+C            5 hrs 28 mins   █████████▒░░░░░░░░░░░░░░░   37.03 %
+LLVM         4 hrs 50 mins   ████████▒░░░░░░░░░░░░░░░░   32.77 %
+HTML         1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+ObjectiveC   55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+JavaScript   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Spotify Recent
