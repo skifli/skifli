@@ -22,4 +22,4 @@ JavaScript   25 mins         ▓░░░░░░░░░░░░░░░░
 
 ## Spotify Recent
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316tjwsnuhdcxtqerxuwxbtdeek4)
+[![Spotify Recent](https://spotify-recently-played-readme.vercel.app/api?user=316tjwsnuhdcxtqerxuwxbtdeek4)](https://open.spotify.com/playlist/5GxVxLR6hLXAr5jFJffBWt)
