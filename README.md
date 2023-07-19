@@ -7,6 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 11 July 2023 - To: 18 July 2023
+
+Total Time: 14 hrs 29 mins
+
 C            5 hrs 28 mins   █████████▒░░░░░░░░░░░░░░░   37.03 %
 LLVM         4 hrs 50 mins   ████████▒░░░░░░░░░░░░░░░░   32.77 %
 HTML         1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
