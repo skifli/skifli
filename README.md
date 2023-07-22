@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2023 - To: 19 July 2023
+From: 13 July 2023 - To: 20 July 2023
 
-Total Time: 13 hrs 8 mins
+Total Time: 12 hrs 52 mins
 
-LLVM         5 hrs 9 mins    █████████▓░░░░░░░░░░░░░░░   38.50 %
-C            4 hrs 37 mins   ████████▓░░░░░░░░░░░░░░░░   34.43 %
-HTML         1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
-ObjectiveC   38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-CMake        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+LLVM         5 hrs 9 mins    █████████▓░░░░░░░░░░░░░░░   39.29 %
+C            4 hrs 37 mins   ████████▓░░░░░░░░░░░░░░░░   35.14 %
+HTML         1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+ObjectiveC   38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+CMake        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 ```
 
 <!--END_SECTION:waka-->
