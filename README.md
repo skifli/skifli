@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 July 2023 - To: 22 July 2023
+From: 16 July 2023 - To: 23 July 2023
 
-Total Time: 8 hrs 25 mins
+Total Time: 10 hrs 53 mins
 
-LLVM         5 hrs 9 mins    ███████████████▒░░░░░░░░░   60.87 %
-C            1 hr 40 mins    █████░░░░░░░░░░░░░░░░░░░░   19.68 %
-JSON         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-Markdown     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Text         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Go           5 hrs 7 mins    ███████████▓░░░░░░░░░░░░░   46.90 %
+LLVM         3 hrs 58 mins   █████████░░░░░░░░░░░░░░░░   36.41 %
+JSON         49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+Markdown     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Text         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
