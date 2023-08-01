@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 July 2023 - To: 29 July 2023
+From: 23 July 2023 - To: 30 July 2023
 
-Total Time: 23 hrs 51 mins
+Total Time: 20 hrs 15 mins
 
-Go           12 hrs 19 mins  ████████████▓░░░░░░░░░░░░   50.71 %
-Astro        3 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
-TypeScript   2 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-HTML         1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-JSON         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Go           7 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   35.95 %
+Astro        3 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
+TypeScript   2 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
+C            1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+HTML         1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
 ```
 
 <!--END_SECTION:waka-->
