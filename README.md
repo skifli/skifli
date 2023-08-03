@@ -4,6 +4,8 @@
 
 ## Projects
 
+Half of these won't get finished, but anyway. This is what happens when you're bored.
+
 | Name                                                                          | Language(s) / Framework(s)       | Description                                                |
 | ----------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------- |
 | [**exeme-project/exeme-lang**](https://github.com/exeme-project/exeme-lang)   | C                                | An optimised, elegant, compiled programming language.      |
