@@ -1,6 +1,6 @@
 # Hey there:wave:![Profile Views](https://komarev.com/ghpvc/?username=skifli)
 
-**I'm skifli** - a random 14 year old kid from the UK, who has 3+ years of experience in too many languages. Since you are here, why not [**visit my website**](https://skifli.github.io) while you're here to find out more about me (oh and also contact methods are there if ya want)?
+**I'm skifli** - a random 14 year old kid from the UK, who has 3+ years of experience in too many languages. Since you are here, why not [**visit my website**](https://skifli.github.io)? Oh and also contact methods are there if ya want :3.
 
 ## Projects
 
