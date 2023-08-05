@@ -1,6 +1,6 @@
 # Hey there:wave:![Profile Views](https://komarev.com/ghpvc/?username=skifli)
 
-**I'm skifli** - a random 14 year old kid from the UK, who has 3+ years of experience in too many languages. Welcome to my home away from home. Since you are here, why not [**visit my website**](https://skifli.github.io)? Oh and also contact methods are there if ya want :3.
+**I'm skifli** - a full-stack dev from the UK. Welcome to my home away from home. Since you are here, why not [**visit my website**](https://skifli.pages.dev)? Oh and also contact methods are there if ya want :3.
 
 ### 📊 WakaTime Stats
 
