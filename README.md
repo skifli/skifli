@@ -22,7 +22,7 @@ HTML         1 hr 39 mins    ██▓░░░░░░░░░░░░░░
 
 | Website | [skifli.pages.dev](https://skifli.pages.dev)             |
 |---------|----------------------------------------------------------|
-| YouTube | [Skifli](https://www.youtube.com/channel/@skifli)        |
+| YouTube | [@skifli](https://www.youtube.com/channel/@skifli)        |
 | Twitter | [@skifli_](https://twitter.com/@skifli_)                 |
 | Reddit  | [/u/Skifli_](https://www.reddit.com/user/skifli_)        |
 | Discord | [@skifli](https://discord.com/users/1072069875993956372) |
