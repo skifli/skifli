@@ -1,8 +1,8 @@
 # Hey there:wave:![Profile Views](https://komarev.com/ghpvc/?username=skifli)
 
-**I'm skifli** - a full-stack dev from the UK. Welcome to my home away from home. Since you are here, why not [**visit my website**](https://skifli.pages.dev)? Oh and also contact methods are there if ya want :3.
+Welcome to my home away from home. Since you are here, why not [**check out my website**](https://skifli.pages.dev); you can find our more about myself there.
 
-### 📊 WakaTime Stats
+## 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
 
@@ -18,6 +18,11 @@ C            1 hr 40 mins    ██▓░░░░░░░░░░░░░░
 HTML         1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
 ```
 
-### 🎶 Spotify On Repeat
+## Contact
 
-I believe music says a lot about people. Here's a link to my [on repeat](https://open.spotify.com/embed/playlist/37i9dQZF1EppySjJVEqy3t?utm_source=generator&theme=0) for Spotify.
+| Website | [skifli.pages.dev](https://skifli.pages.dev)             |
+|---------|----------------------------------------------------------|
+| YouTube | [Skifli](https://www.youtube.com/channel/@skifli)        |
+| Twitter | [@skifli_](https://twitter.com/@skifli_)                 |
+| Reddit  | [/u/Skifli_](https://www.reddit.com/user/skifli_)        |
+| Discord | [@skifli](https://discord.com/users/1072069875993956372) |
