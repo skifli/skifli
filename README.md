@@ -18,6 +18,8 @@ C            1 hr 40 mins    ██▓░░░░░░░░░░░░░░
 HTML         1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
 ```
 
+<!--END_SECTION:waka-->
+
 ## Contact
 
 | Website | [skifli.pages.dev](https://skifli.pages.dev)             |
