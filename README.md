@@ -20,7 +20,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-## Contact
+## 📞 Contact
 
 | Website | [skifli.pages.dev](https://skifli.pages.dev)             |
 |---------|----------------------------------------------------------|
