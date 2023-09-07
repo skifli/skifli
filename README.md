@@ -22,9 +22,10 @@ XML          15 mins         ██▓░░░░░░░░░░░░░░
 
 ## 📞 Contact
 
-| Website | [skifli.pages.dev](https://skifli.pages.dev)             |
-|---------|----------------------------------------------------------|
-| YouTube | [@skifli](https://www.youtube.com/channel/@skifli)        |
-| Twitter | [@skifli_](https://twitter.com/@skifli_)                 |
-| Reddit  | [/u/Skifli_](https://www.reddit.com/user/skifli_)        |
-| Discord | [@skifli](https://discord.com/users/1072069875993956372) |
+| Website  | [skifli.pages.dev](https://skifli.pages.dev)                       |
+|----------|--------------------------------------------------------------------|
+| Discord  | [@skifli](https://discord.com/users/1072069875993956372)           |
+| LinkedIn | [aneeq-weerasinghe](https://www.linkedin.com/in/aneeq-weerasinghe) |
+| Reddit   | [/u/Skifli_](https://www.reddit.com/user/skifli_)                  |
+| Twitter  | [@skifli_](https://twitter.com/@skifli_)                           |
+| YouTube  | [@skifli](https://www.youtube.com/channel/@skifli)                 |
