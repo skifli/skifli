@@ -7,15 +7,15 @@ Welcome to my home away from home. Since you are here, why not [**check out my w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2023 - To: 04 September 2023
+From: 29 August 2023 - To: 05 September 2023
 
-Total Time: 2 hrs 45 mins
+Total Time: 2 hrs 18 mins
 
-C            50 mins         ███████▓░░░░░░░░░░░░░░░░░   30.60 %
-TypeScript   25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
-Markdown     24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
-HTML         23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-JSON         18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+C            40 mins         ███████▒░░░░░░░░░░░░░░░░░   29.35 %
+TypeScript   25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
+HTML         23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
+JSON         18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
+XML          15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
 ```
 
 <!--END_SECTION:waka-->
