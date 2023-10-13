@@ -7,15 +7,15 @@ Welcome to my home away from home. Since you are here, why not [**check out my w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 10 October 2023
+From: 04 October 2023 - To: 11 October 2023
 
-Total Time: 7 hrs 34 mins
+Total Time: 8 hrs 13 mins
 
-Python           3 hrs 25 mins   ███████████▒░░░░░░░░░░░░░   45.06 %
-C                2 hrs 42 mins   █████████░░░░░░░░░░░░░░░░   35.52 %
-Markdown         37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-Text             19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-GDScript         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Python           4 hrs 9 mins    ████████████▓░░░░░░░░░░░░   50.18 %
+C                2 hrs 42 mins   ████████▒░░░░░░░░░░░░░░░░   32.70 %
+Text             19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Markdown         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+JSON             12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
