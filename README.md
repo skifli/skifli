@@ -22,10 +22,10 @@ YAML         59 mins         ██░░░░░░░░░░░░░░░
 
 ## 📞 Contact
 
-| Website  | [skifli.pages.dev](https://skifli.pages.dev)                       |
-|----------|--------------------------------------------------------------------|
-| Discord  | [@skifli](https://discord.com/users/1072069875993956372)           |
-| LinkedIn | [aneeq-weerasinghe](https://www.linkedin.com/in/aneeq-weerasinghe) |
-| Reddit   | [/u/Skifli_](https://www.reddit.com/user/skifli_)                  |
-| Twitter  | [@skifli_](https://twitter.com/@skifli_)                           |
-| YouTube  | [@skifli](https://www.youtube.com/channel/@skifli)                 |
+| Website   | [skifli.pages.dev](https://skifli.pages.dev)                       |
+| --------- | ------------------------------------------------------------------ |
+| Discord   | [@skifli](https://discord.com/users/1072069875993956372)           |
+| LinkedIn  | [aneeq-weerasinghe](https://www.linkedin.com/in/aneeq-weerasinghe) |
+| Reddit    | [/u/Skifli_](https://www.reddit.com/user/skifli_)                  |
+| Mastodon  | [@skifli@mastodon.social](https://mastodon.social/@skifli)         |
+| YouTube   | [@skifli](https://www.youtube.com/channel/@skifli)                 |
