@@ -7,15 +7,15 @@ Welcome to my home away from home. Since you are here, why not [**check out my w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 27 December 2023
+From: 22 December 2023 - To: 28 December 2023
 
-Total Time: 3 hrs 43 mins
+Total Time: 4 hrs 16 mins
 
-CSS        1 hr 23 mins    ████████▓░░░░░░░░░░░░░░░░   35.28 %
-HTML       1 hr 19 mins    ████████▒░░░░░░░░░░░░░░░░   33.30 %
-C          55 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
-Other      14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Text       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+CSS        1 hr 49 mins    ██████████░░░░░░░░░░░░░░░   40.54 %
+HTML       1 hr 26 mins    ████████░░░░░░░░░░░░░░░░░   31.86 %
+C          55 mins         █████░░░░░░░░░░░░░░░░░░░░   20.39 %
+Other      14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Text       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
