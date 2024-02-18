@@ -22,10 +22,4 @@ Markdown     11 mins         ███░░░░░░░░░░░░░░
 
 ## 📞 Contact
 
-| Website   | [skifli.pages.dev](https://skifli.pages.dev)                       |
-| --------- | ------------------------------------------------------------------ |
-| Discord   | [@skifli](https://discord.com/users/1072069875993956372)           |
-| LinkedIn  | [aneeq-weerasinghe](https://www.linkedin.com/in/aneeq-weerasinghe) |
-| Mastodon  | [@skifli@mastodon.social](https://mastodon.social/@skifli)         |
-| Reddit    | [/u/Skifli_](https://www.reddit.com/user/skifli_)                  |
-| YouTube   | [@skifli](https://www.youtube.com/channel/@skifli)                 |
+All my contact links, including **Discord**, **LinkedIn**, and **Mastodon**, can be found on my website linked above.
