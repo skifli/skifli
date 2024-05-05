@@ -7,15 +7,15 @@ Welcome to my home away from home. Since you are here, why not [**check out my w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 April 2024 - To: 02 May 2024
+From: 26 April 2024 - To: 03 May 2024
 
-Total Time: 8 hrs 42 mins
+Total Time: 6 hrs 51 mins
 
-Python   7 hrs 50 mins   ██████████████████████▒░░   89.16 %
-Text     37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-C        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Other    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-CMake    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Python   6 hrs 19 mins   ██████████████████████▓░░   91.13 %
+Text     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+C        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Other    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+CMake    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
