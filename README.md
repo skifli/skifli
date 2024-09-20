@@ -7,15 +7,15 @@ Welcome to my home away from home. Since you are here, why not [**check out my w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2024 - To: 17 September 2024
+From: 11 September 2024 - To: 18 September 2024
 
-Total Time: 3 hrs 51 mins
+Total Time: 6 hrs 9 mins
 
-JSON         1 hr 29 mins    █████████▓░░░░░░░░░░░░░░░   38.39 %
-Python       1 hr 9 mins     ███████▒░░░░░░░░░░░░░░░░░   29.57 %
-C            52 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
-LLVM         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-JavaScript   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+C            3 hrs 6 mins    ████████████▒░░░░░░░░░░░░   49.79 %
+JSON         1 hr 31 mins    ██████░░░░░░░░░░░░░░░░░░░   24.49 %
+Python       1 hr 9 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
+LLVM         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
