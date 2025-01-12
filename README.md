@@ -7,11 +7,13 @@ Welcome to my home away from home. Since you are here, why not [**check out my w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2025 - To: 09 January 2025
+From: 04 January 2025 - To: 10 January 2025
 
-Total Time: 0 secs
+Total Time: 3 mins
 
-No activity tracked
+Other   6 mins          ████████████████▒░░░░░░░░   65.39 %
+C       3 mins          ████████▓░░░░░░░░░░░░░░░░   34.20 %
+LLVM    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
