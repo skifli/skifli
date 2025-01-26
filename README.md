@@ -7,7 +7,7 @@ Welcome to my home away from home. Since you are here, why not [**check out my w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2025 - To: 23 January 2025
+From: 18 January 2025 - To: 24 January 2025
 
 Total Time: 1 hr 51 mins
 
