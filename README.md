@@ -7,15 +7,15 @@ Welcome to my home away from home. Since you are here, why not [**check out my w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2025 - To: 31 January 2025
+From: 26 January 2025 - To: 01 February 2025
 
-Total Time: 5 hrs 18 mins
+Total Time: 3 hrs 1 min
 
-Rust     3 hrs 34 mins   ███████████████▓░░░░░░░░░   62.24 %
-C        48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
-Python   29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-Other    25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-TOML     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Rust     1 hr 31 mins    ███████████▓░░░░░░░░░░░░░   46.19 %
+C        50 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.47 %
+Python   29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
+Other    17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+LLVM     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
 
 <!--END_SECTION:waka-->
