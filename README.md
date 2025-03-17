@@ -7,15 +7,15 @@ Welcome to my home away from home. Since you are here, why not [**check out my w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 March 2025 - To: 14 March 2025
+From: 09 March 2025 - To: 15 March 2025
 
-Total Time: 8 hrs 2 mins
+Total Time: 4 hrs 34 mins
 
-Python       4 hrs 11 mins   █████████████░░░░░░░░░░░░   51.62 %
-Rust         1 hr 17 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
-C            1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Markdown     43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-JavaScript   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+C            1 hr 14 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
+Python       1 hr 8 mins     ██████▒░░░░░░░░░░░░░░░░░░   24.77 %
+Rust         47 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+Markdown     37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
+JavaScript   19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
 ```
 
 <!--END_SECTION:waka-->
