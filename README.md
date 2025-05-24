@@ -18,4 +18,4 @@ No activity tracked
 
 ## 📞 Contact
 
-All my contact links, including **Discord**, **LinkedIn**, and **Mastodon**, can be found on my website linked above.
+All my contact links, including **Discord**, etc, can be found on my website linked above.
