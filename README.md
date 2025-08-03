@@ -7,15 +7,15 @@ Welcome to my home away from home. Since you are here, why not [**check out my w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2025 - To: 31 July 2025
+From: 25 July 2025 - To: 01 August 2025
 
-Total Time: 4 hrs 15 mins
+Total Time: 5 hrs 50 mins
 
-Markdown     3 hrs 10 mins   ██████████████████▓░░░░░░   74.41 %
-CSV          43 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
-C            11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-Devicetree   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-C++          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Markdown      4 hrs 28 mins   ██████████████████▒░░░░░░   73.42 %
+CSV           53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
+Other         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+C             11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Devicetree    9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
