@@ -7,15 +7,15 @@ Welcome to my home away from home. Since you are here, why not [**check out my w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2025 - To: 08 August 2025
+From: 02 August 2025 - To: 09 August 2025
 
-Total Time: 19 hrs 42 mins
+Total Time: 12 hrs 11 mins
 
-Text       9 hrs 22 mins   ██████████▒░░░░░░░░░░░░░░   40.79 %
-Markdown   6 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
-CSV        4 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
-Other      3 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
-Python     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Text       9 hrs 22 mins   ███████████████░░░░░░░░░░   60.61 %
+Other      3 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
+CSV        2 hrs 40 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
+Markdown   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Python     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
