@@ -9,12 +9,11 @@ Welcome to my home away from home. Since you are here, why not [**check out my w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2025 - To: 18 October 2025
+From: 13 October 2025 - To: 20 October 2025
 
-Total Time: 1 hr 23 mins
+Total Time: 55 mins
 
-Python   1 hr 23 mins    █████████████████████████   99.36 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Python   55 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
