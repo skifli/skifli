@@ -4,20 +4,6 @@
 
 Welcome to my home away from home. Since you are here, why not [**check out my website**](https://skifli.github.io); you can find our more about myself there.
 
-## 📊 WakaTime Stats
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 18 October 2025 - To: 25 October 2025
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ## 📞 Contact
 
 All my contact links, including **Discord**, etc, can be found on my website linked above.
